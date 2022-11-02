@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Dairenin Alanını ve Çevresini Hesaplayan Program">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="VkiHesaplama Programi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VKIHesaplama">
+  <component name="RunManager" selected="Application.manavKasa">
     <configuration name="HipotenusBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hipotenusBulanProgram.HipotenusBulanProgram" />
       <module name="java101PatikaDev" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kdvTutariHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KdvTutariHesaplama.kdvTutariHesaplama" />
+    <configuration name="manavKasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manavKasaProgrami.manavKasa" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KdvTutariHesaplama.*" />
+          <option name="PATTERN" value="manavKasaProgrami.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.manavKasa" />
         <item itemvalue="Application.VKIHesaplama" />
         <item itemvalue="Application.daireAlanVeCevre" />
         <item itemvalue="Application.TaksiMetreHesaplama" />
         <item itemvalue="Application.HipotenusBulanProgram" />
-        <item itemvalue="Application.kdvTutariHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
-      <workItem from="1667405280674" duration="11305000" />
+      <workItem from="1667405280674" duration="12144000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -211,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667419597753</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="VkiHesaplama Programi">
+      <created>1667420876559</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667420876559</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,17 +241,7 @@
     <MESSAGE value="HipotenusBulanProgram Calismasi" />
     <MESSAGE value="TaksiMetreHesaplayanProgram Calismasi" />
     <MESSAGE value="Dairenin Alanını ve Çevresini Hesaplayan Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dairenin Alanını ve Çevresini Hesaplayan Program" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/VkiHesaplama/VKIHesaplama.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="VkiHesaplama Programi" />
+    <option name="LAST_COMMIT_MESSAGE" value="VkiHesaplama Programi" />
   </component>
 </project>
