@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="HipotenusBulanProgram Calismasi" />
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="TaksiMetreHesaplayanProgram Calismasi">
+      <change beforePath="$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KdvTutariHesaplama/kdvTutariHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/TaksiMetreHesaplayanProgram/TaksiMetreHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" root0="SKIP_INSPECTION" />
@@ -51,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TaksiMetreHesaplama">
+  <component name="RunManager" selected="Application.daireAlanVeCevre">
     <configuration name="HipotenusBulanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hipotenusBulanProgram.HipotenusBulanProgram" />
       <module name="java101PatikaDev" />
@@ -71,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TaksiMetreHesaplayanProgram.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daireAlanVeCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireAlanveCevre.daireAlanVeCevre" />
+      <module name="java101PatikaDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DaireAlanveCevre.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.daireAlanVeCevre" />
         <item itemvalue="Application.TaksiMetreHesaplama" />
         <item itemvalue="Application.HipotenusBulanProgram" />
         <item itemvalue="Application.kdvTutariHesaplama" />
@@ -115,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
-      <workItem from="1667405280674" duration="9295000" />
+      <workItem from="1667405280674" duration="9991000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -166,7 +183,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667417907346</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="TaksiMetreHesaplayanProgram Calismasi">
+      <created>1667418658678</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667418658678</updated>
+    </task>
+    <task id="LOCAL-00009" summary="TaksiMetreHesaplayanProgram Calismasi">
+      <created>1667418666547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667418666547</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,6 +218,7 @@
     <MESSAGE value="Java ile dersOrtalamaProgrami Calismasi" />
     <MESSAGE value="KDV Tutarı Hesaplayan Program Calismasi" />
     <MESSAGE value="HipotenusBulanProgram Calismasi" />
-    <option name="LAST_COMMIT_MESSAGE" value="HipotenusBulanProgram Calismasi" />
+    <MESSAGE value="TaksiMetreHesaplayanProgram Calismasi" />
+    <option name="LAST_COMMIT_MESSAGE" value="TaksiMetreHesaplayanProgram Calismasi" />
   </component>
 </project>
