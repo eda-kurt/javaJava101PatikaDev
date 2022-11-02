@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="KDV Tutarı Hesaplayan Program Calismasi">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="HipotenusBulanProgram Calismasi" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
-      <workItem from="1667405280674" duration="8108000" />
+      <workItem from="1667405280674" duration="8511000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -132,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667415908723</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HipotenusBulanProgram Calismasi">
+      <created>1667417559185</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667417559185</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HipotenusBulanProgram Calismasi">
+      <created>1667417565659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667417565659</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +164,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java ile dersOrtalamaProgrami Calismasi" />
     <MESSAGE value="KDV Tutarı Hesaplayan Program Calismasi" />
-    <option name="LAST_COMMIT_MESSAGE" value="KDV Tutarı Hesaplayan Program Calismasi" />
+    <MESSAGE value="HipotenusBulanProgram Calismasi" />
+    <option name="LAST_COMMIT_MESSAGE" value="HipotenusBulanProgram Calismasi" />
   </component>
 </project>
