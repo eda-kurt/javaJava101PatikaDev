@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="kullanici girisi">
-      <change beforePath="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" afterDir="false" />
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="if ile ders ortalamasi projesi">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/TaksiMetreHesaplayanProgram/TaksiMetreHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/VkiHesaplama/VKIHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/havaSicakliginaGoreEtkinlik/havaSicakliginaGoreEtkinlik.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/hipotenusBulanProgram/HipotenusBulanProgram.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,7 +58,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dersOrtalamaProgrami">
+  <component name="RunManager" selected="Application.havaSicakliginaGoreEtkinlik">
     <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KullaniciGirisi.KullaniciGirisi" />
       <module name="java101PatikaDev" />
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VKIHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VkiHesaplama.VKIHesaplama" />
+    <configuration name="dersOrtalamaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dersOrtalamaProgrami.dersOrtalamaProgrami" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VkiHesaplama.*" />
+          <option name="PATTERN" value="dersOrtalamaProgrami.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dersOrtalamaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dersOrtalamaProgrami.dersOrtalamaProgrami" />
+    <configuration name="havaSicakliginaGoreEtkinlik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="havaSicakliginaGoreEtkinlik.havaSicakliginaGoreEtkinlik" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dersOrtalamaProgrami.*" />
+          <option name="PATTERN" value="havaSicakliginaGoreEtkinlik.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.havaSicakliginaGoreEtkinlik" />
         <item itemvalue="Application.dersOrtalamaProgrami" />
         <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.hesapMakinesi" />
         <item itemvalue="Application.manavKasa" />
-        <item itemvalue="Application.VKIHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
-      <workItem from="1667422270889" duration="4765000" />
+      <workItem from="1667422270889" duration="5672000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -249,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667493805117</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="if ile ders ortalamasi projesi">
+      <created>1667495660102</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667495660102</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +284,7 @@
     <MESSAGE value="Manav Kasa Programı" />
     <MESSAGE value="Hesap Makinesi" />
     <MESSAGE value="kullanici girisi" />
-    <option name="LAST_COMMIT_MESSAGE" value="kullanici girisi" />
+    <MESSAGE value="if ile ders ortalamasi projesi" />
+    <option name="LAST_COMMIT_MESSAGE" value="if ile ders ortalamasi projesi" />
   </component>
 </project>
