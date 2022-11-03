@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Manav Kasa Programı">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Hesap Makinesi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/HesapMakinesi/hesapMakinesi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KdvTutariHesaplama/kdvTutariHesaplama.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/KullaniciGirisi/KullaniciGirisi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/TaksiMetreHesaplayanProgram/TaksiMetreHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/VkiHesaplama/VKIHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" root0="SKIP_INSPECTION" />
@@ -56,13 +57,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hesapMakinesi">
-    <configuration name="TaksiMetreHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaksiMetreHesaplayanProgram.TaksiMetreHesaplama" />
+  <component name="RunManager" selected="Application.KullaniciGirisi">
+    <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KullaniciGirisi.KullaniciGirisi" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TaksiMetreHesaplayanProgram.*" />
+          <option name="PATTERN" value="KullaniciGirisi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.hesapMakinesi" />
         <item itemvalue="Application.manavKasa" />
         <item itemvalue="Application.VKIHesaplama" />
         <item itemvalue="Application.daireAlanVeCevre" />
-        <item itemvalue="Application.TaksiMetreHesaplama" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
-      <workItem from="1667422270889" duration="1458000" />
+      <workItem from="1667422270889" duration="4284000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -234,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667421643603</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Hesap Makinesi">
+      <created>1667490965736</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667490965736</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +267,7 @@
     <MESSAGE value="Dairenin Alanını ve Çevresini Hesaplayan Program" />
     <MESSAGE value="VkiHesaplama Programi" />
     <MESSAGE value="Manav Kasa Programı" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manav Kasa Programı" />
+    <MESSAGE value="Hesap Makinesi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hesap Makinesi" />
   </component>
 </project>
