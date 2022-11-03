@@ -29,9 +29,19 @@ public class dersOrtalamaProgrami {
 
         System.out.println("Not ortalamaniz : " + ortalama);
 
-         boolean sonuc= ortalama>=60;
+         /* boolean sonuc= ortalama>=60;
          String str= sonuc ? "Sinifi gectiniz":"Sinifta kaldiniz";
-         System.out.println(str);
+        System.out.println(str); */
+
+        if (ortalama>=60)
+        {
+            System.out.println("Sinifi gectiniz");
+        }
+        else {
+            System.out.println("Sinifta kaldiniz");
+        }
+
+
 
 
 

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Hesap Makinesi">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="kullanici girisi">
+      <change beforePath="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.KullaniciGirisi">
+  <component name="RunManager" selected="Application.dersOrtalamaProgrami">
     <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KullaniciGirisi.KullaniciGirisi" />
       <module name="java101PatikaDev" />
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="daireAlanVeCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DaireAlanveCevre.daireAlanVeCevre" />
+    <configuration name="dersOrtalamaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dersOrtalamaProgrami.dersOrtalamaProgrami" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DaireAlanveCevre.*" />
+          <option name="PATTERN" value="dersOrtalamaProgrami.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dersOrtalamaProgrami" />
         <item itemvalue="Application.KullaniciGirisi" />
         <item itemvalue="Application.hesapMakinesi" />
         <item itemvalue="Application.manavKasa" />
         <item itemvalue="Application.VKIHesaplama" />
-        <item itemvalue="Application.daireAlanVeCevre" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
-      <workItem from="1667422270889" duration="4284000" />
+      <workItem from="1667422270889" duration="4765000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667490965736</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="kullanici girisi">
+      <created>1667493805117</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667493805117</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +275,7 @@
     <MESSAGE value="VkiHesaplama Programi" />
     <MESSAGE value="Manav Kasa Programı" />
     <MESSAGE value="Hesap Makinesi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hesap Makinesi" />
+    <MESSAGE value="kullanici girisi" />
+    <option name="LAST_COMMIT_MESSAGE" value="kullanici girisi" />
   </component>
 </project>
