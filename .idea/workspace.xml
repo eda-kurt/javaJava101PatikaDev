@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Burc bulma programi">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="ucak bileti fiyat hesaplama programi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/CinZodyakHesaplama/cinZodyakHesap.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/HesapMakinesi/hesapMakinesi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KdvTutariHesaplama/kdvTutariHesaplama.java" root0="SKIP_INSPECTION" />
@@ -61,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ucakBileti">
+  <component name="RunManager" selected="Application.cinZodyakHesap">
     <configuration name="TaksiMetreHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaksiMetreHesaplayanProgram.TaksiMetreHesaplama" />
       <module name="java101PatikaDev" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="havaSicakliginaGoreEtkinlik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="havaSicakliginaGoreEtkinlik.havaSicakliginaGoreEtkinlik" />
+    <configuration name="cinZodyakHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CinZodyakHesaplama.cinZodyakHesap" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="havaSicakliginaGoreEtkinlik.*" />
+          <option name="PATTERN" value="CinZodyakHesaplama.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cinZodyakHesap" />
         <item itemvalue="Application.ucakBileti" />
         <item itemvalue="Application.TaksiMetreHesaplama" />
         <item itemvalue="Application.burcBulma" />
         <item itemvalue="Application.sayiSiralama" />
-        <item itemvalue="Application.havaSicakliginaGoreEtkinlik" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
-      <workItem from="1667422270889" duration="15312000" />
+      <workItem from="1667422270889" duration="16350000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -281,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667501215273</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ucak bileti fiyat hesaplama programi">
+      <created>1667589789024</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1667589789024</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +320,7 @@
     <MESSAGE value="Sicaklik degerine gore etkinlik onerme" />
     <MESSAGE value="kucukten buyuge sayi siralamasi" />
     <MESSAGE value="Burc bulma programi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Burc bulma programi" />
+    <MESSAGE value="ucak bileti fiyat hesaplama programi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ucak bileti fiyat hesaplama programi" />
   </component>
 </project>
