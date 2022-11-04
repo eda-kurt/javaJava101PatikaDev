@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="kucukten buyuge sayi siralamasi">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Burc bulma programi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/havaSicakliginaGoreEtkinlik/havaSicakliginaGoreEtkinlik.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/hipotenusBulanProgram/HipotenusBulanProgram.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/sayiSiralama/sayiSiralama.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ucakFiyatiBileti/ucakBileti.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,13 +61,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.burcBulma">
-    <configuration name="KullaniciGirisi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KullaniciGirisi.KullaniciGirisi" />
+  <component name="RunManager" selected="Application.ucakBileti">
+    <configuration name="TaksiMetreHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaksiMetreHesaplayanProgram.TaksiMetreHesaplama" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="KullaniciGirisi.*" />
+          <option name="PATTERN" value="TaksiMetreHesaplayanProgram.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,19 +81,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="burcBulma.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="dersOrtalamaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dersOrtalamaProgrami.dersOrtalamaProgrami" />
-      <module name="java101PatikaDev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dersOrtalamaProgrami.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ucakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ucakFiyatiBileti.ucakBileti" />
+      <module name="java101PatikaDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ucakFiyatiBileti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ucakBileti" />
+        <item itemvalue="Application.TaksiMetreHesaplama" />
         <item itemvalue="Application.burcBulma" />
         <item itemvalue="Application.sayiSiralama" />
         <item itemvalue="Application.havaSicakliginaGoreEtkinlik" />
-        <item itemvalue="Application.dersOrtalamaProgrami" />
-        <item itemvalue="Application.KullaniciGirisi" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
-      <workItem from="1667422270889" duration="8455000" />
+      <workItem from="1667422270889" duration="15312000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -273,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667499811349</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Burc bulma programi">
+      <created>1667501215273</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1667501215273</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +311,7 @@
     <MESSAGE value="if ile ders ortalamasi projesi" />
     <MESSAGE value="Sicaklik degerine gore etkinlik onerme" />
     <MESSAGE value="kucukten buyuge sayi siralamasi" />
-    <option name="LAST_COMMIT_MESSAGE" value="kucukten buyuge sayi siralamasi" />
+    <MESSAGE value="Burc bulma programi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Burc bulma programi" />
   </component>
 </project>
