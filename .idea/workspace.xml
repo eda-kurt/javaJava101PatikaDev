@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="CinZodyakHesaplama programi">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="artikYil programi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/CinZodyakHesaplama/cinZodyakHesap.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Com/Albessa/albessa.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/HesapMakinesi/hesapMakinesi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KdvTutariHesaplama/kdvTutariHesaplama.java" root0="SKIP_INSPECTION" />
@@ -31,6 +32,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/TaksiMetreHesaplayanProgram/TaksiMetreHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/VkiHesaplama/VKIHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/burcBulma/burcBulma.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/ciftSayiDongusu/ciftsayiDongusu.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami/dersOrtalamaProgrami.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/havaSicakliginaGoreEtkinlik/havaSicakliginaGoreEtkinlik.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/hipotenusBulanProgram/HipotenusBulanProgram.java" root0="SKIP_INSPECTION" />
@@ -62,13 +64,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.artikyil">
-    <configuration name="TaksiMetreHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaksiMetreHesaplayanProgram.TaksiMetreHesaplama" />
+  <component name="RunManager" selected="Application.ciftsayiDongusu">
+    <configuration name="Com.Albessa.albessa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Com.Albessa.albessa" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TaksiMetreHesaplayanProgram.*" />
+          <option name="PATTERN" value="Com.Albessa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="burcBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="burcBulma.burcBulma" />
+    <configuration name="ciftsayiDongusu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ciftSayiDongusu.ciftsayiDongusu" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="burcBulma.*" />
+          <option name="PATTERN" value="ciftSayiDongusu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ciftsayiDongusu" />
+        <item itemvalue="Application.Com.Albessa.albessa" />
         <item itemvalue="Application.artikyil" />
         <item itemvalue="Application.cinZodyakHesap" />
         <item itemvalue="Application.ucakBileti" />
-        <item itemvalue="Application.TaksiMetreHesaplama" />
-        <item itemvalue="Application.burcBulma" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +149,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
-      <workItem from="1667422270889" duration="18209000" />
+      <workItem from="1667422270889" duration="21018000" />
+      <workItem from="1667649425321" duration="2416000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -296,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667590714382</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="artikYil programi">
+      <created>1667592652853</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1667592652853</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -329,6 +339,7 @@
     <MESSAGE value="Burc bulma programi" />
     <MESSAGE value="ucak bileti fiyat hesaplama programi" />
     <MESSAGE value="CinZodyakHesaplama programi" />
-    <option name="LAST_COMMIT_MESSAGE" value="CinZodyakHesaplama programi" />
+    <MESSAGE value="artikYil programi" />
+    <option name="LAST_COMMIT_MESSAGE" value="artikYil programi" />
   </component>
 </project>
