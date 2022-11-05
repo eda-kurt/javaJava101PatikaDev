@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ciftSayiDongusu/ciftsayiDongusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ciftSayiDongusu/ciftsayiDongusu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.tekSayiDongu">
+  <component name="RunManager" selected="Application.kuvvetleriniAlma">
     <configuration name="Com.Albessa.albessa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Com.Albessa.albessa" />
       <module name="java101PatikaDev" />
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cinZodyakHesap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CinZodyakHesaplama.cinZodyakHesap" />
+    <configuration name="kuvvetleriniAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kuvvetleriniAlma.kuvvetleriniAlma" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CinZodyakHesaplama.*" />
+          <option name="PATTERN" value="kuvvetleriniAlma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.kuvvetleriniAlma" />
         <item itemvalue="Application.tekSayiDongu" />
         <item itemvalue="Application.ciftsayiDongusu" />
         <item itemvalue="Application.Com.Albessa.albessa" />
         <item itemvalue="Application.artikyil" />
-        <item itemvalue="Application.cinZodyakHesap" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +151,7 @@
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
       <workItem from="1667422270889" duration="21018000" />
-      <workItem from="1667649425321" duration="6272000" />
+      <workItem from="1667649425321" duration="9379000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -315,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667653701813</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program">
+      <created>1667658036924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1667658036924</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +356,8 @@
     <MESSAGE value="CinZodyakHesaplama programi" />
     <MESSAGE value="artikYil programi" />
     <MESSAGE value="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı" />
-    <option name="LAST_COMMIT_MESSAGE" value="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı" />
+    <MESSAGE value="girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program" />
+    <option name="LAST_COMMIT_MESSAGE" value="girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java101PatikaDev$ciftsayiDongusu.ic" NAME="ciftsayiDongusu Coverage Results" MODIFIED="1667653819435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
