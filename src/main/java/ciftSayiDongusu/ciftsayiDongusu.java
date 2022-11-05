@@ -10,7 +10,7 @@ public class ciftsayiDongusu {
         sayi=input.nextInt();
 
         System.out.println(sayi+" kadar cift sayilar :");
-        for (i=0;i<=sayi;i++){
+   for (i=0;i<=sayi;i++){
             if (i%2==0){
                 System.out.println(i );
             }

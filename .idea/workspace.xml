@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="artikYil programi">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ciftSayiDongusu/ciftsayiDongusu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ciftSayiDongusu/ciftsayiDongusu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/havaSicakliginaGoreEtkinlik/havaSicakliginaGoreEtkinlik.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/hipotenusBulanProgram/HipotenusBulanProgram.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/sayiSiralama/sayiSiralama.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/tekSayiDongu/tekSayiDongu.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/ucakFiyatiBileti/ucakBileti.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -64,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ciftsayiDongusu">
+  <component name="RunManager" selected="Application.tekSayiDongu">
     <configuration name="Com.Albessa.albessa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Com.Albessa.albessa" />
       <module name="java101PatikaDev" />
@@ -117,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ucakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ucakFiyatiBileti.ucakBileti" />
+    <configuration name="tekSayiDongu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tekSayiDongu.tekSayiDongu" />
       <module name="java101PatikaDev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ucakFiyatiBileti.*" />
+          <option name="PATTERN" value="tekSayiDongu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tekSayiDongu" />
         <item itemvalue="Application.ciftsayiDongusu" />
         <item itemvalue="Application.Com.Albessa.albessa" />
         <item itemvalue="Application.artikyil" />
         <item itemvalue="Application.cinZodyakHesap" />
-        <item itemvalue="Application.ucakBileti" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,7 @@
       <updated>1667405279048</updated>
       <workItem from="1667405280674" duration="12622000" />
       <workItem from="1667422270889" duration="21018000" />
-      <workItem from="1667649425321" duration="2416000" />
+      <workItem from="1667649425321" duration="6272000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -306,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667592652853</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı">
+      <created>1667653701813</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1667653701813</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,6 +349,12 @@
     <MESSAGE value="ucak bileti fiyat hesaplama programi" />
     <MESSAGE value="CinZodyakHesaplama programi" />
     <MESSAGE value="artikYil programi" />
-    <option name="LAST_COMMIT_MESSAGE" value="artikYil programi" />
+    <MESSAGE value="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı" />
+    <option name="LAST_COMMIT_MESSAGE" value="girilen sayıya kadar olan sayılardan 3 ve 4'e tam bölünen sayıların ortalamasını hesaplayan programı" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java101PatikaDev$ciftsayiDongusu.ic" NAME="ciftsayiDongusu Coverage Results" MODIFIED="1667653819435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ciftSayiDongusu.*</FILTER>
+    </SUITE>
   </component>
 </project>
