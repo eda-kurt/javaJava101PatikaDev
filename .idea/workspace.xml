@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Kombinasyon programi">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="basamak sayılarının toplamını hesaplayan program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/CinZodyakHesaplama/cinZodyakHesap.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/Com/Albessa/albessa.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/DaireAlanveCevre/daireAlanVeCevre.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/HarmonikSayi/HarmonikSayi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/HesapMakinesi/hesapMakinesi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KdvTutariHesaplama/kdvTutariHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KullaniciGirisi/KullaniciGirisi.java" root0="SKIP_INSPECTION" />
@@ -69,7 +70,20 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.armstrongSayi">
+  <component name="RunManager" selected="Application.HarmonikSayi">
+    <configuration name="HarmonikSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HarmonikSayi.HarmonikSayi" />
+      <module name="java101PatikaDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HarmonikSayi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <module name="java101PatikaDev" />
       <method v="2">
@@ -115,26 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tekSayiDongu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tekSayiDongu.tekSayiDongu" />
-      <module name="java101PatikaDev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tekSayiDongu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HarmonikSayi" />
         <item itemvalue="Application.armstrongSayi" />
         <item itemvalue="Application.Unnamed" />
         <item itemvalue="Application.kombinasyon" />
         <item itemvalue="Application.kuvvetleriniAlma" />
-        <item itemvalue="Application.tekSayiDongu" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +150,7 @@
       <workItem from="1667405280674" duration="12622000" />
       <workItem from="1667422270889" duration="21018000" />
       <workItem from="1667649425321" duration="12461000" />
-      <workItem from="1668026497353" duration="468000" />
+      <workItem from="1668026497353" duration="2252000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -333,7 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667680027611</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="basamak sayılarının toplamını hesaplayan program">
+      <created>1668266182147</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1668266182147</updated>
+    </task>
+    <task id="LOCAL-00028" summary="basamak sayılarının toplamını hesaplayan program">
+      <created>1668266191715</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1668266191715</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -371,7 +386,8 @@
     <MESSAGE value="girişleri kabul eden ve girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan program" />
     <MESSAGE value="java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran program" />
     <MESSAGE value="Kombinasyon programi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kombinasyon programi" />
+    <MESSAGE value="basamak sayılarının toplamını hesaplayan program" />
+    <option name="LAST_COMMIT_MESSAGE" value="basamak sayılarının toplamını hesaplayan program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java101PatikaDev$ciftsayiDongusu.ic" NAME="ciftsayiDongusu Coverage Results" MODIFIED="1667653819435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
