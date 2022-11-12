@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="yıldızlar ile elmas yapan program">
+    <list default="true" id="9ecea016-0d9d-4062-a67d-0dc1bb2422ef" name="Changes" comment="Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/HesapMakinesi/hesapMakinesi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KdvTutariHesaplama/kdvTutariHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/KullaniciGirisi/KullaniciGirisi.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/MukemmelSayi/MukemmelSayi.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/TaksiMetreHesaplayanProgram/TaksiMetreHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/VkiHesaplama/VKIHesaplama.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/armstrongSayi/armstrongSayi.java" root0="SKIP_INSPECTION" />
@@ -72,7 +73,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/dersOrtalamaProgrami" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxMin">
+  <component name="RunManager" selected="Application.MukemmelSayi">
     <configuration name="HarmonikSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonikSayi.HarmonikSayi" />
       <module name="java101PatikaDev" />
@@ -99,8 +100,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Unnamed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MukemmelSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MukemmelSayi.MukemmelSayi" />
       <module name="java101PatikaDev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MukemmelSayi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MukemmelSayi" />
         <item itemvalue="Application.MaxMin" />
         <item itemvalue="Application.YildizlarElmaz" />
         <item itemvalue="Application.HarmonikSayi" />
         <item itemvalue="Application.armstrongSayi" />
-        <item itemvalue="Application.Unnamed" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +160,7 @@
       <workItem from="1667405280674" duration="12622000" />
       <workItem from="1667422270889" duration="21018000" />
       <workItem from="1667649425321" duration="12461000" />
-      <workItem from="1668026497353" duration="8316000" />
+      <workItem from="1668026497353" duration="9173000" />
     </task>
     <task id="LOCAL-00001" summary="Java ile dersOrtalamaProgrami Calismasi">
       <created>1667408345596</created>
@@ -371,7 +379,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668271468873</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan program">
+      <created>1668276357707</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1668276357707</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +427,8 @@
     <MESSAGE value="basamak sayılarının toplamını hesaplayan program" />
     <MESSAGE value="HarmonikSayi" />
     <MESSAGE value="yıldızlar ile elmas yapan program" />
-    <option name="LAST_COMMIT_MESSAGE" value="yıldızlar ile elmas yapan program" />
+    <MESSAGE value="Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/java101PatikaDev$ciftsayiDongusu.ic" NAME="ciftsayiDongusu Coverage Results" MODIFIED="1667653819435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
